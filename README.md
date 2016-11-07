@@ -40,7 +40,7 @@ Copy `config-sample.json` to `config.json` and then add your projects configurat
 ### Agencies
 
 Before you can use gtfs-to-html you must specify the transit agencies you'd
-like to use.
+like to use. To find transit agencies in New York State, go [here](https://transit-admin.511ny.org/feeds/).
 
 You can specify agencies using a `url` to the GTFS file or a local `path`.
 
